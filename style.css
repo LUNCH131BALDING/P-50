@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(142, 165, 42);
+}
+
+/*   {
+    border: solid;
+}*/
+.header{
+background-color: aquamarine;
+display: flex;
+justify-content: space-between;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+display: flex;
+justify-content: space-around;
+
+}
+body{
+    background: violet;
+}
